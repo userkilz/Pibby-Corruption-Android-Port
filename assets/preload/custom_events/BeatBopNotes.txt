@@ -1,0 +1,8 @@
+Makes notes bop Up and Down
+
+Original Up and down moving notes by bbpanzu (used for kaboom)
+Event Port By BirbyJaySunday on YT
+
+Stop By AngelTubby08
+
+Value 1: true para activarlo, false para desactivar

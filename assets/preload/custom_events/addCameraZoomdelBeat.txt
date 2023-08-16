@@ -1,0 +1,1 @@
+true activo, false desactivado

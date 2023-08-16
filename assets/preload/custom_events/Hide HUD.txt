@@ -1,0 +1,2 @@
+
+value1: 1 turns HUD off (smoothly) 0 turns HUD back on

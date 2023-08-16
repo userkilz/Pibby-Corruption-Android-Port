@@ -1,0 +1,2 @@
+v1: Transparencia (1/ON, 0/OFF)
+v2: Duracion de la Transicion

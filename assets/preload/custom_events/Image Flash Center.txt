@@ -1,0 +1,6 @@
+value 1: imagen
+value 2: x, y y tiempo para desvanecer, escala por x, escala por y
+
+por ejemplo:
+value 1: casa
+value 2: 0,0,1,1,1

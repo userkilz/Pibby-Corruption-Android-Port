@@ -1,0 +1,6 @@
+Does the shadow thing like in Indie Cross and Mind Games.
+
+Value 1: 'a' redbg, 'b' to undo.
+Value 2: Silhouette Fade In/Out Time.
+
+este script es de Pamduro LOL
