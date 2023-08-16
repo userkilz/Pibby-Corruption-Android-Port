@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "Charge"
+		},
+		{
+			"offsets": [
+				-449,
+				106
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Hit"
+		},
+		{
+			"offsets": [
+				-362,
+				-56
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Second-Hit"
+		},
+		{
+			"offsets": [
+				-449,
+				106
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Hit"
+		},
+		{
+			"offsets": [
+				-363,
+				-56
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Second-Hit"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Finn-Slash",
+	"position": [
+		-1130,
+		-420
+	],
+	"healthicon": "finn",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		160,
+		179
+	],
+	"camera_position": [
+		190,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

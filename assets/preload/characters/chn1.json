@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "chn1"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "school/channels/chn1",
+	"position": [
+		-860,
+		-200
+	],
+	"healthicon": "darwin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		120,
+		75
+	],
+	"camera_position": [
+		550,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
