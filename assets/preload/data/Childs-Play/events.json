@@ -1,0 +1,133 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"still",
+						"Dad"
+					]
+				]
+			],
+			[
+				166.666666666667,
+				[
+					[
+						"Camera Switch",
+						"0.2",
+						"off"
+					]
+				]
+			],
+			[
+				1000,
+				[
+					[
+						"Camera Switch",
+						"5",
+						"on"
+					]
+				]
+			],
+			[
+				20000,
+				[
+					[
+						"Play Animation",
+						"Transition",
+						"Dad"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Camera Switch",
+						"0.2",
+						"off"
+					]
+				],
+				null,
+				""
+			],
+			[
+				65739.1304347826,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"gumball"
+					]
+				]
+			],
+			[
+				67478.2608695652,
+				[
+					[
+						"Camera Switch",
+						"0.2",
+						"on"
+					],
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				153123.188405797,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				156289.855072464,
+				[
+					[
+						"badapplelol-shaggy",
+						"a",
+						""
+					],
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				198385.651748906,
+				[
+					[
+						"badapplelol-shaggy",
+						"b",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				254037.825661949,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			]
+		]
+	}
+}
