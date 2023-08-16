@@ -1,0 +1,59 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Mindless",
+			"finn",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blessed-By-Swords",
+			"finn",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Brotherly-Love",
+			"icon-jake",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"suffering-siblings",
+			"finn",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
