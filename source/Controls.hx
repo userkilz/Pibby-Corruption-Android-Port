@@ -13,7 +13,6 @@ import flixel.input.keyboard.FlxKey;
 #if mobile
 import mobile.flixel.FlxButton;
 import mobile.flixel.FlxHitbox;
-import mobile.flixel.FlxNewHitbox;
 import mobile.flixel.FlxVirtualPad;
 #end
 
